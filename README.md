@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cristianoaf81GIT
+- 👋 Hi, I’m @Cristianoaf81GIT (Cristiano Alexandre de Faria)
 - 👀 I’m interested in nodejs, Java, Python
 - 🌱 I’m currently learning Angular, React, Typescript
 
